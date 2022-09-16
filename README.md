@@ -1,16 +1,17 @@
 # foto_dan_video
 
-A new Flutter project.
+Pada project ini digunakan dua plugin yaitu image_picker dan video_player. image_picker dapat digunakan dengan cara memasukan perintah '$ flutter pub add image_picker' pada terminal. sedangkan video_player dengan cara memasukan perintah '$ flutter pub add video_player'.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## hasil  run image_picker
+![ss](images/fv1.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+pada gambar diatas terlihat sebuah button dan gambar yang telah di upload ke aplikasi. untuk memilih gambar tinggal menekan button "upload foto" lalu pilih dari gallery atau camera seperti gambar dibawah
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![ss](images/fv2.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## hasil run video_player
+untuk percobaan ini saya menambahkan button "video player" untuk menuju halaman video player.
+![ss](images/fv3.jpeg)
+pada halaman ini terdapat tombol play dan pause untuk video yang ditampilkan
+![ss](images/fv4.jpeg)
