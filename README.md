@@ -13,5 +13,7 @@ pada gambar diatas terlihat sebuah button dan gambar yang telah di upload ke apl
 ## hasil run video_player
 untuk percobaan ini saya menambahkan button "video player" untuk menuju halaman video player.
 ![ss](images/fv3.jpeg)
+
 pada halaman ini terdapat tombol play dan pause untuk video yang ditampilkan
+
 ![ss](images/fv4.jpeg)
